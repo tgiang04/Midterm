@@ -7,6 +7,14 @@
 - Hiển thị danh sách người dùng dưới dạng lưới.
 - Mỗi thẻ người dùng hiển thị tên đăng nhập và vai trò.
 
+## Giao diện 
+
+![Ảnh ](image/screenshot.png)
+
+## Class User
+
+![Ảnh ](image/userClass.png)
+
 ## Tổng quan về Mã nguồn
 
 ### Hàm chính
