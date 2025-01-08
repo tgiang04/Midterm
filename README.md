@@ -9,7 +9,7 @@
 
 ## Giao diện 
 
-![Ảnh ](image/screenshot.png)
+![Ảnh ](image/screenshot.jpg)
 
 ## Class User
 
